@@ -1,4 +1,4 @@
-![](Bittles.png)
+![[Bittles.png]]
 >[!note]+ Moondog
 >This is my own cat, Morris, who lived to 15. He lost an eye to disease a few months before his passing in December 2023. I have a tattoo of a one-eyed panther to commemorate him. 
 # Story
