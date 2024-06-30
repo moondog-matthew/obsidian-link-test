@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"e48e0d7fa72ddd40","type":"file","file":"Characters/CATTs/Butterstick.md","x":-820,"y":-1180,"width":480,"height":520},
+		{"id":"106d426c7421217a","type":"text","text":"","x":25,"y":-780,"width":720,"height":50},
+		{"id":"f8ea4cc050ac8b44","type":"text","text":"","x":25,"y":-780,"width":250,"height":50},
+		{"id":"b8d60ab91e1c3094","type":"file","file":"Characters/CATTs/Gold Standard.md","x":25,"y":-780,"width":720,"height":420},
+		{"id":"f8ff2439f9f849d3","type":"file","file":"Characters/CATTs/Heavenly Emperor of all New York.md","x":98,"y":-1440,"width":575,"height":400},
+		{"id":"b6484c390ea09fc0","type":"file","file":"Characters/CATTs/Train.md","x":1201,"y":-1440,"width":509,"height":400},
+		{"id":"dc206124b6c68d94","type":"text","text":"","x":105,"y":-52,"width":568,"height":60},
+		{"id":"6e85ca1d1d74db67","type":"file","file":"Worldbuilding/EMPATHY.md","x":105,"y":-52,"width":568,"height":785},
+		{"id":"3ad3a06b7d95a7b2","type":"file","file":"Characters/CATTs/Bittles.md","x":1640,"y":45,"width":453,"height":609},
+		{"id":"af063997278df24d","type":"file","file":"Characters/CATTs/Six.md","x":-1320,"y":133,"width":620,"height":415},
+		{"id":"a84eadd774e523a2","type":"file","file":"Characters/CATTs/Legally Distinct Orange Cat.md","x":-1140,"y":-830,"width":440,"height":538},
+		{"id":"6a473ce46b7f4ee1","type":"file","file":"Characters/CATTs/Kadet.md","x":1560,"y":-847,"width":420,"height":555}
+	],
+	"edges":[
+		{"id":"650b6c43b820295a","fromNode":"6a473ce46b7f4ee1","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"right","label":"Having lived 4,000 years in CATT HELL, Kadet has learned to reluctantly live with EMPATHY. Aligns with Gold Standard because she wants to restore the old order of cats being gods to humans."},
+		{"id":"69ca297e504e4099","fromNode":"b8d60ab91e1c3094","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"top","label":"Suffered animal abuse in life. Believes humans are without empathy, and wants to rid himself of EMPATHY and leave CATT HELL to destroy humans."},
+		{"id":"6e0d93875ea17685","fromNode":"b8d60ab91e1c3094","fromSide":"right","toNode":"6a473ce46b7f4ee1","toSide":"left"},
+		{"id":"a83c38f99cbf93ef","fromNode":"6a473ce46b7f4ee1","fromSide":"left","toNode":"b8d60ab91e1c3094","toSide":"right","label":"Have formed a bond out of a mutual feeling of being above humans."},
+		{"id":"cb7ace1e69236f7d","fromNode":"f8ff2439f9f849d3","fromSide":"bottom","toNode":"b8d60ab91e1c3094","toSide":"top","label":"Heavenly Emperor knows not all humans are evil, but doesn't know how to teach this to Gold."},
+		{"id":"188d0d064a5edbd1","fromNode":"a84eadd774e523a2","fromSide":"right","toNode":"b8d60ab91e1c3094","toSide":"left","label":"Both Butterstick and Orange empathize with Gold Standard, but can't get through to him."},
+		{"id":"ba25e9356347d754","fromNode":"b6484c390ea09fc0","fromSide":"bottom","toNode":"106d426c7421217a","toSide":"right","label":"Train honestly does resonate with some of Gold's ideas about humans after his rough upbringing, but he doesn't want to take revenge."},
+		{"id":"279fe4cfa6c902d6","fromNode":"af063997278df24d","fromSide":"right","toNode":"6e85ca1d1d74db67","toSide":"left","label":"Six understands EMPATHY isn't punishment, and tries their best to be good. Six believes  that if they're good, they'll go to cat heaven (Six is correct, but this is a fairly uncommon belief amongst CATTs)"},
+		{"id":"53a179fc8e1f0f5d","fromNode":"e48e0d7fa72ddd40","fromSide":"bottom","toNode":"b8d60ab91e1c3094","toSide":"left"},
+		{"id":"5ea85885b0d2636d","fromNode":"a84eadd774e523a2","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"left","label":"NotGarfield came to CATT HELL willingly from cat heaven. He's happy about his choice, but he does miss eating Lasagna."},
+		{"id":"1c23bff135e503d2","fromNode":"b6484c390ea09fc0","fromSide":"left","toNode":"f8ff2439f9f849d3","toSide":"right"},
+		{"id":"4da3518c331862ce","fromNode":"f8ff2439f9f849d3","fromSide":"right","toNode":"b6484c390ea09fc0","toSide":"left","label":"Friends since their past life in NYC."},
+		{"id":"a7937a0e9f8cffa7","fromNode":"3ad3a06b7d95a7b2","fromSide":"left","toNode":"6e85ca1d1d74db67","toSide":"right","label":"Bittles has just recently learned about EMPATHY. They're doing their best to make their karma better before their 9th life is up, to avoid going to CATT HELL."}
+	]
+}

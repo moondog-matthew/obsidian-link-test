@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"dc206124b6c68d94","type":"text","text":"","x":105,"y":-20,"width":680,"height":60},
+		{"id":"88f1b044ea2fdf36","type":"text","text":"","x":105,"y":710,"width":680,"height":50},
+		{"id":"a1c9c0846262e957","type":"file","file":"Characters/CATTs/Bittles.md","x":-700,"y":-780,"width":420,"height":565},
+		{"id":"af063997278df24d","type":"file","file":"Characters/CATTs/Six.md","x":-1160,"y":163,"width":620,"height":415},
+		{"id":"fbea04adad9e508d","type":"file","file":"Characters/CATTs/Legally Distinct Orange Cat.md","x":-1000,"y":984,"width":400,"height":552},
+		{"id":"ca9d2c1dae4ec3bd","type":"file","file":"Characters/CATTs/Butterstick.md","x":240,"y":1044,"width":435,"height":452},
+		{"id":"5db0b1266fb7bdee","type":"file","file":"Characters/People/Poshya.md","x":105,"y":-20,"width":680,"height":780},
+		{"id":"6a473ce46b7f4ee1","type":"file","file":"Characters/CATTs/Kadet.md","x":235,"y":-1000,"width":420,"height":555},
+		{"id":"c46df9264eba3d38","type":"text","text":"","x":1590,"y":-347,"width":250,"height":60},
+		{"id":"b8d60ab91e1c3094","type":"file","file":"Characters/CATTs/Gold Standard.md","x":1120,"y":-707,"width":720,"height":420},
+		{"id":"28c80b73dd8373e3","type":"file","file":"Characters/CATTs/Heavenly Emperor of all New York.md","x":1800,"y":163,"width":700,"height":472},
+		{"id":"56dd14dbdfa544dd","type":"file","file":"Characters/CATTs/Train.md","x":1550,"y":1044,"width":500,"height":400}
+	],
+	"edges":[
+		{"id":"650b6c43b820295a","fromNode":"6a473ce46b7f4ee1","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"top","label":"Believes Poshya is beneath her, and undeserving of her great wisdom. May help Pos out of pragmatism/for a favor."},
+		{"id":"8ea24f0cb1dd10d0","fromNode":"a1c9c0846262e957","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"left","label":"Teaches Poshya not to take on too many tasks at once, regulate yourself to prevent burnout."},
+		{"id":"99ebce5f09acccbe","fromNode":"af063997278df24d","fromSide":"right","toNode":"5db0b1266fb7bdee","toSide":"left","label":"Teaches Pos self-care through \nstrange, silly, rituals."},
+		{"id":"867497f47debcbf3","fromNode":"fbea04adad9e508d","fromSide":"top","toNode":"88f1b044ea2fdf36","toSide":"left","label":"Teaches Poshya the importance of socializing and that helping people or making people happy can reflect back to you and make you feel good."},
+		{"id":"ab1850f0b5797455","fromNode":"28c80b73dd8373e3","fromSide":"left","toNode":"5db0b1266fb7bdee","toSide":"right","label":"Teaches Poshya to be brave, to focus on their craft and to take pride in their hard work."},
+		{"id":"3eaae15446836498","fromNode":"fbea04adad9e508d","fromSide":"right","toNode":"ca9d2c1dae4ec3bd","toSide":"left","label":"Wasn't sent to CATT HELL, Orange Cat requested to come here from cat heaven, just to hang out with Butterstick"},
+		{"id":"ae020f5d8a90be80","fromNode":"ca9d2c1dae4ec3bd","fromSide":"top","toNode":"88f1b044ea2fdf36","toSide":"bottom","label":"Butterstick tries to help Poshya with encyclopedic knowledge he's learned from devouring books."},
+		{"id":"c30b9e55d5dd008f","fromNode":"fbea04adad9e508d","fromSide":"bottom","toNode":"ca9d2c1dae4ec3bd","toSide":"bottom"},
+		{"id":"162afc9c20948280","fromNode":"ca9d2c1dae4ec3bd","fromSide":"bottom","toNode":"fbea04adad9e508d","toSide":"bottom","label":"These two never leave each other's side."},
+		{"id":"1c3599267338935d","fromNode":"56dd14dbdfa544dd","fromSide":"left","toNode":"88f1b044ea2fdf36","toSide":"right","label":"Teaches Poshya not to rely on short-term dopamine boosts and painkillers to get through the day."},
+		{"id":"64a37f48a7bbdbc1","fromNode":"28c80b73dd8373e3","fromSide":"bottom","toNode":"56dd14dbdfa544dd","toSide":"right","label":"Friends since their past life in NYC."},
+		{"id":"e55b973a3f52f5c4","fromNode":"56dd14dbdfa544dd","fromSide":"right","toNode":"28c80b73dd8373e3","toSide":"bottom"},
+		{"id":"dcf01f24e8e7e8df","fromNode":"b8d60ab91e1c3094","fromSide":"top","toNode":"6a473ce46b7f4ee1","toSide":"right","label":"Friends."},
+		{"id":"9df758bf00bf883c","fromNode":"a1c9c0846262e957","fromSide":"left","toNode":"af063997278df24d","toSide":"top"},
+		{"id":"b8288d0b6d462399","fromNode":"af063997278df24d","fromSide":"top","toNode":"a1c9c0846262e957","toSide":"left","label":"Friends."},
+		{"id":"392c1c9ec93ff8c2","fromNode":"b8d60ab91e1c3094","fromSide":"bottom","toNode":"dc206124b6c68d94","toSide":"right","label":"Tries to teach Poshya to live with pain, by causing Pos pain. Genuinely believes they're helping by \"toughening up\" Pos."},
+		{"id":"3cb7cd3cb47d0dec","fromNode":"28c80b73dd8373e3","fromSide":"top","toNode":"c46df9264eba3d38","toSide":"right","label":"Heavenly Emperor will fight Gold Standard if he has to, but he hopes it doesn't come to that."}
+	]
+}

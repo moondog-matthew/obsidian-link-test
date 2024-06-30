@@ -1,0 +1,1 @@
+Short for Anastasia, Ana is [Poshya](Poshya.md)'s long-time friend. She cares deeply about [Poshya](Poshya.md), but she has some problems of her own right now. Poshya and Ana were friends through all of high school. They haven't spoken much since they graduated together last year and Pos went off to study, despite living right close by to each other

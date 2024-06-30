@@ -1,0 +1,1 @@
+"Dad" might be the only character whose name appears in quotation marks. [Poshya](Poshya.md) doesn't consider this person to be their dad. This needn't be explained in-game, but you can assume "Dad" is a step-father or something similar.
